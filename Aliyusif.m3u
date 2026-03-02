@@ -985,15 +985,9 @@ https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
 #EXTGRP:TURK(URL)
 https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Xoroşıy Serıal
-#EXTGRP:RUS
-https://v2.catcast.tv/content/40710/seg-25649178-v1-a1/mono.m3u8
 #EXTINF:-1,Rus Kino
 #EXTGRP:RUS
 https://v2.catcast.tv/content/50521/seg-25636645-v1-a1/index.m3u8
-#EXTINF:-1,Jetix Ru
-#EXTGRP:RUS
-https://v2.catcast.tv/content/50519/seg-25636656-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04062021/banners/40304-60b9fc5ee2423.png",KINOBOX_BEST FILM
 #EXTGRP:RUS
 https://v2.catcast.tv/content/40304/seg-25565057-v1-a1/index.m3u8
@@ -1108,6 +1102,9 @@ https://v2.catcast.tv/content/43405/seg-25411742-v1-a1/index.m3u8
 #EXTINF:-1,Kino mobil
 #EXTGRP:RUS
 https://v2.catcast.tv/content/50027/seg-25411812-v1-a1/index.m3u8
+#EXTINF:-1,Xoroşıy Serıal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40710/seg-25649178-v1-a1/mono.m3u8
 #EXTINF:-1,NTN ru
 #EXTGRP:RUS
 https://v2.catcast.tv/content/50023/seg-25411825-v1-a1/index.m3u8
@@ -1242,7 +1239,9 @@ https://v2.catcast.tv/content/38847/seg-25728432-v1-a1/index.m3u8
 https://v2.catcast.tv/content/39009/seg-25728405-v1-a1/index.m3u8
 
 
-
+#EXTINF:-1,Jetix Ru
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50519/seg-25636656-v1-a1/index.m3u8
 #EXTINF:-1,Tom and Jerry 24/7
 #EXTGRP:RUS
 https://v2.catcast.tv/content/43075/seg-25728488-v1-a1/index.m3u8
