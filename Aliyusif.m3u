@@ -985,6 +985,604 @@ https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
 #EXTGRP:TURK(URL)
 https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Xoroşıy Serıal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40710/seg-25649178-v1-a1/mono.m3u8
+#EXTINF:-1,Rus Kino
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50521/seg-25636645-v1-a1/index.m3u8
+#EXTINF:-1,Jetix Ru
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50519/seg-25636656-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04062021/banners/40304-60b9fc5ee2423.png",KINOBOX_BEST FILM
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40304/seg-25565057-v1-a1/index.m3u8
+#EXTINF:-1,Videosalon
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40391/seg-25410821-v1-a1/index.m3u8
+#EXTINF:-1, TNT STREET
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50314/seg-25410840-v1-a1/index.m3u8
+#EXTINF:-1,VHS Kinotetr
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39165/seg-25410799-v1-a1/index.m3u8
+#EXTINF:-1,Action Film
+#EXTGRP:RUS
+https://v2.catcast.tv/content/36517/seg-25410979-v1-a1/index.m3u8
+#EXTINF:-1,Filmi (6+)VHS TV
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47609/seg-25410879-v1-a1/index.m3u8
+#EXTINF:-1,TV XX-XXI vek
+#EXTGRP:RUS
+https://v2.catcast.tv/content/35688/seg-25411411-v1-a1/index.m3u8
+#EXTINF:-1,VHS-Krutaya Videoteka
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40675/seg-25410690-v1-a1/index.m3u8
+#EXTINF:-1,KINO 1 International
+#EXTGRP:RUS
+https://kino-1.catcast.tv/content/38617/seg-25410625-v1-a1/index.m3u8
+#EXTINF:-1,VIDEOSALON
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38696/seg-25765216-v1-a1/index.m3u8
+#EXTINF:-1,Nevesta 24
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47924/seg-25765164-v1-a1/index.m3u8
+#EXTINF:-1,Vseon 3
+#EXTGRP:RUS
+https://v2.catcast.tv/content/66/seg-25765146-v1-a1/index.m3u8
+#EXTINF:-1,Vseon 3
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47922/seg-25765127-v1-a1/index.m3u8
+#EXTINF:-1,Vseon 2
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47921/seg-25765120-v1-a1/index.m3u8
+#EXTINF:-1,Новое тв
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39390/seg-25549853-v1-a1/index.m3u8
+#EXTINF:-1, Fenix SSSR
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40102/seg-25410680-v1-a1/index.m3u8
+#EXTINF:-1,MR.BEAN 2
+#EXTGRP:RUS
+https://v2.catcast.tv/content/48266/seg-25410708-v1-a1/index.m3u8
+#EXTINF:-1,MR.BEAN
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39349/seg-25410752-v1-a1/index.m3u8
+#EXTINF:-1,2+2 STREET
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49851/seg-25411059-v1-a1/index.m3u8
+#EXTINF:-1,Fork Portal ru
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38762/seg-25411087-v1-a1/index.m3u8
+#EXTINF:-1,Perviy Razvlekatelniy
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49319/seg-25411100-v1-a1/index.m3u8
+#EXTINF:-1,Komedi Kvartal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41997/seg-25411140-v1-a1/index.m3u8
+#EXTINF:-1,Kinomaniya
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46420/seg-25411152-v1-a1/index.m3u8
+#EXTINF:-1,6 Kadrov
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39566/seg-25411220-v1-a1/index.m3u8
+#EXTINF:-1,Qoryachiye qolovi
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50027/seg-25411242-v1-a1/index.m3u8
+#EXTINF:-1,Kino inter
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40636/seg-25411266-v1-a1/index.m3u8
+#EXTINF:-1,Komedi Dizel
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41779/seg-25411281-v1-a1/index.m3u8
+#EXTINF:-1,Kinozal HD zakritiy pokaz
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42376/seg-25411297-v1-a1/index.m3u8
+#EXTINF:-1,Kanal starix peredach
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41325/seg-25411325-v1-a1/index.m3u8
+#EXTINF:-1,Shestoy kanal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50013/seg-25411340-v1-a1/index.m3u8
+#EXTINF:-1,Film tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/36043/seg-25411379-v1-a1/index.m3u8
+#EXTINF:-1,Film_TV Group multskazki
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46677/seg-25411391-v1-a1/index.m3u8
+#EXTINF:-1,Kinozal 44
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37959/seg-25411441-v1-a1/index.m3u8
+#EXTINF:-1,AYSBERG van dam
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37431/seg-25410848-v1-a1/index.m3u8
+#EXTINF:-1,KINO BOX
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38223/seg-25411576-v1-a1/index.m3u8
+#EXTINF:-1,Kino i Seriali
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37762/seg-25411588-v1-a1/index.m3u8
+#EXTINF:-1,Komediya
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43405/seg-25411742-v1-a1/index.m3u8
+#EXTINF:-1,Kino mobil
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50027/seg-25411812-v1-a1/index.m3u8
+#EXTINF:-1,NTN ru
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50023/seg-25411825-v1-a1/index.m3u8
+#EXTINF:-1,KLI Medya Action
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50008/seg-25411189-v1-a1/index.m3u8
+#EXTINF:-1,Fantasy Dosug
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49644/seg-25411856-v1-a1/index.m3u8
+#EXTINF:-1,QTV wwwe
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49642/seg-25411865-v1-a1/index.m3u8
+#EXTINF:-1,KinoMult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43161/seg-25411918-v1-a1/index.m3u8
+#EXTINF:-1, Nor Max
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40660/seg-25411930-v1-a1/index.m3u8
+#EXTINF:-1,Roshtik
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38299/seg-25556192-v1-a1/index.m3u8
+#EXTINF:-1,Primere HD
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38487/seg-25556178-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01072020/banners/38681-5efc6669a754b.png",FilmCast
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38681/seg-25556158-v1-a1/index.m3u8
+#EXTINF:-1,Kinozal 44
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37959/seg-25556135-v1-a1/index.m3u8
+#EXTINF:-1,Premium HD
+#EXTGRP:RUS
+https://v2.catcast.tv/content/34474/seg-25556074-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/31012026/banners/50142-697d7d5bbabf9.jpg",MGM inter
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50142/seg-25556038-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26112025/banners/48063-6926b08b3c346.jpg",MGM film
+#EXTGRP:RUS
+https://v2.catcast.tv/content/48063/seg-25555873-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10102025/banners/49692-68e94d4803a90.png",Tv Boom.Vip
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49692/seg-25555788-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/23112025/banners/49997-6922b62ae4a14.jpg",Belarus 1
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49997/seg-25555610-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="Komediya"tvg-logo="https://img.catcast.tv/uploads/31052023/banners/43405-64776df35e9f7.png",Komediya
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43405/seg-25550661-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/20052023/banners/43242-6468ee5b41f56.jpg",Paramont komedi
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43242/seg-25555949-v1-a1/index.m3u8
+#EXTINF:-1,TET Poltava
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42428/seg-25555366-v1-a1/index.m3u8
+#EXTINF:-1,Kino Vixod
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40686/seg-25555346-v1-a1/index.m3u8
+#EXTINF:-1,KinoTeatr VHS
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39165/seg-25550464-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="Old schooll VHS"tvg-logo="https://img.catcast.tv/uploads/04022021/banners/39780-601bb288bc74e.jpg",Old schooll VHS
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39780/seg-25550489-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="TV BOOM.VIP"tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png",TV BOOM.VI
+#EXTGRP:RUS
+https://kb.catcast.tv/content/49702/seg-176872872-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="INTER"tvg-logo="https://img.catcast.tv/uploads/07012026/banners/50183-695e3bbf3d567.png" ,INTER
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50183/seg-25550328-v1-a1/index.m3u8
+#EXTINF:-1,Дом тв
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43062/seg-25549947-v1-a1/index.m3u8
+#EXTINF:-1,QTV TL
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42959/seg-25550042-v1-a1/index.m3u8
+#EXTINF:-1,Tomer tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39971/seg-25549993-v1-a1/index.m3u8
+#EXTINF:-1,Pirat tv 
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37801/seg-25651093-v1-a1/index.m3u8
+#EXTINF:-1,KinoMobil
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50014/seg-25649304-v1-a1/index.m3u8
+#EXTINF:-1,KinoMobil Classic Komedi
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50027/seg-25649279-v1-a1/index.m3u8
+#EXTINF:-1,Xeshteq
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38426/seg-25728976-v1-a1/index.m3u8
+#EXTINF:-1,SATURDAY
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41944/seg-25728939-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13072020/banners/38762-5f0c716393e4a.png",Fork Portal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38762/seg-25728825-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/15082024/banners/47639-66be2cfc91006.png",NTV Comedy
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47639/seg-25728757-v1-a1/index.m3u8
+#EXTINF:-1,Kinomaniya
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46420/seg-25728723-v1-a1/index.m3u8
+#EXTINF:-1,RHS:Detskiy HD
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42498/seg-25728705-v1-a1/index.m3u8
+#EXTINF:-1,Bayraktar online tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41619/seg-25728686-v1-a1/index.m3u8
+#EXTINF:-1,ATB 
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38944/seg-25728663-v1-a1/index.m3u8
+#EXTINF:-1,Fenix Fantastik
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40110/seg-25728653-v1-a1/index.m3u8
+#EXTINF:-1,Rossiya XP
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46117/seg-25728621-v1-a1/index.m3u8
+#EXTINF:-1,OK! tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39614/seg-25728605-v1-a1/index.m3u8
+#EXTINF:-1,Kotik SSSR
+#EXTGRP:RUS
+https://v2.catcast.tv/content/44957/seg-25728570-v1-a1.ts
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/29102022/banners/42376-635c57b295c26.png",Kinozal HD
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42376/seg-25728536-v1-a1/index.m3u8
+#EXTINF:-1,Fork Portal Stream
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38847/seg-25728432-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22082020/banners/39009-5f418484c725e.jpg",Mistik
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39009/seg-25728405-v1-a1/index.m3u8
+
+
+
+#EXTINF:-1,Tom and Jerry 24/7
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43075/seg-25728488-v1-a1/index.m3u8
+#EXTINF:-1,Multseriali(3+)VHS
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47757/seg-25728464-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/19092025/banners/49512-68ccd2aef37b1.png",Telekanal MM
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49512/seg-25555539-v1-a1/index.m3u8
+#EXTINF:-1,Detskoye Kino 
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38720/seg-25410635-v1-a1/index.m3u8
+#EXTINF:-1,TELEKANAL O!
+#EXTGRP:RUS
+https://v2.catcast.tv/content/48391/seg-25765487-v1-a1/index.m3u8
+#EXTINF:-1,STR mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/48584/seg-25765475-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/20042024/banners/46722-6623de8e056bd.jpg",Artyom tv mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46722/seg-25765445-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/28042024/banners/46775-662e075cc6109.png",Tom i Djerri
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46775/seg-25765429-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14102022/banners/42365-6349abe0d9e83.png",Nyusha tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42365/seg-25765303-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/09092020/banners/39107-5f58cbc0b09a5.jpg",KitKat tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39107/seg-25765264-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/banners/fd6428800bf053e248019bc1aa81412b.png",Djin Tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/33677/seg-25765106-v1-a1/index.m3u8
+#EXTINF:-1,STARO tv mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/44945/seg-25765059-v1-a1/index.m3u8
+#EXTINF:-1,Free Films mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41852/seg-25765034-v1-a1/index.m3u8
+#EXTINF:-1,Butya tv+0 mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41954/seg-25765021-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14072021/banners/40020-60eee0af55215.jpg",PPS Mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40020/seg-25764999-v1-a1/index.m3u8
+#EXTINF:-1,TV Shans_Talantliviye Deti
+#EXTGRP:RUS
+https://tvshans.catcast.tv/content/40722/seg-25764909-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21092025/logos/26565-68cfcee2c0008.png",Mult Catcast
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49543/seg-25764867-v1-a1/index.m3u8
+#EXTINF:-1,Multfilmi SSSR
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47786/seg-25550517-v1-a1/index.m3u8
+#EXTINF:-1,FOX mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50367/seg-25550315-v1-a1/index.m3u8
+#EXTINF:-1,Анимашка
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47202/seg-25550086-v1-a1/index.m3u8
+#EXTINF:-1,Anime 24
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40954/seg-25550062-v1-a1/index.m3u8
+#EXTINF:-1,Anix tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42543/seg-25550181-v1-a1/index.m3u8
+#EXTINF:-1,QTV Mulfilm
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47384/seg-25550163-v1-a1/index.m3u8
+#EXTINF:-1,QTV mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38556/seg-25550025-v1-a1/index.m3u8
+#EXTINF:-1,QTV Mulfilm
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42063/seg-25550016-v1-a1/index.m3u8
+#EXTINF:-1,Shingal Kids tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39916/seg-25549960-v1-a1/index.m3u8
+#EXTINF:-1,Fenix kids
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40103/seg-25549881-v1-a1/index.m3u8
+#EXTINF:-1,PlusPlus Mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49790/seg-25549830-v1-a1/index.m3u8
+#EXTINF:-1,Cherepashki Ninja
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42473/seg-25411203-v1-a1/index.m3u8
+#EXTINF:-1,TOM and JERRY
+#EXTGRP:Детские
+https://v2.catcast.tv/content/43075/seg-25410727-v1-a1/index.m3u8
+#EXTINF:-1,Jetix mult
+#EXTGRP:Детские
+https://v2.catcast.tv/content/39373/seg-25410797-v1-a1/index.m3u8
+#EXTINF:-1,Simpsoni mult
+#EXTGRP:Детские
+https://v2.catcast.tv/content/39089/seg-25411611-v1-a1/index.m3u8
+#EXTINF:-1,SIMPSONI
+#EXTGRP:Детские
+https://v2.catcast.tv/content/50279/seg-25411785-v1-a1/index.m3u8
+#EXTINF:-1,Fenix Kids
+#EXTGRP:Детские
+https://v2.catcast.tv/content/40103/seg-25411231-v1-a1/index.m3u8
+#EXTGRP:RUS
+#EXTINF:-1,BUTYA tv mult
+#EXTGRP:Детские
+https://v2.catcast.tv/content/41954/seg-25565086-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18012020/37712-5e235559a9d17.jpg",Back in Time mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37712/seg-25565035-v1-a1/index.m3u8
+#EXTINF:-1,Disney 
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43602/seg-25411654-v1-a1/index.m3u8
+#EXTINF:-1,Sinema Masha i medved
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37549/seg-25411703-v1-a1/index.m3u8
+#EXTINF:-1,MultSeriali(3+)
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47757/seg-25564958-v1-a1/index.m3u8
+#EXTINF:-1,DISNEY
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39025/seg-25564938-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25052024/banners/47101-66521f526db46.png",Chyorniy Plash
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47101/seg-25564886-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/27112021/banners/40984-61a291607c2cf.png",Qtv Mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40984/seg-25555909-v1-a1/index.m3u8
+#EXTINF:-1,Studio 3
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49619/seg-25555801-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/23092025/banners/49591-68d292165c169.png",Telekanal MM Kids
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49591/seg-25555763-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/27092025/banners/49612-68d7e5f66314f.jpg",Tv Qonshiki na Mashinax
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49612/seg-25555572-v1-a1/index.m3u8
+#EXTINF:-1,Telekanal MM Mini
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49577/seg-25555528-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25052024/banners/47101-66521f526db46.png",Chyorniy Plash
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47101/seg-25555972-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/23052023/banners/43161-646cc45379241.png",KinoMult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43161/seg-25555963-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22052023/banners/43372-646ba4b746720.png",Multikanal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43372/seg-25555936-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/11082023/banners/43693-64d67e6419f2c.png",Multkanal2
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43693/seg-25555413-v1-a1/index.m3u8
+#EXTINF:-1,FUN tv Fiksiki
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42085/seg-25555323-v1-a1/index.m3u8
+#EXTINF:-1,RHS:Detskiy
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42498/seg-25550626-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="MULTKANAL2"tvg-logo="https://img.catcast.tv/uploads/11082023/banners/43693-64d67e6419f2c.png",MULTKANAL2
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43693/seg-25550589-v1-a1/index.m3u8
+#EXTINF:-1,Vizi Vizi
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47541/seg-25550145-v1-a1/index.m3u8
+#EXTINF:-1,Alavar Komedi Barboskini
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46398/seg-25550122-v1-a1/index.m3u8
+#EXTINF:-1,Telekanal O
+#EXTGRP:Детские
+https://v2.catcast.tv/content/50555/seg-25652711-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22112024/banners/48083-67407f96e76be.png",Tom & Jerry new
+#EXTGRP:RUS
+https://v2.catcast.tv/content/48083/seg-25746391-v1-a1/index.m3u8
+#EXTINF:-1,KTV mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/34800/seg-25729043-v1-a1/index.m3u8
+#EXTINF:-1,SUBBOTA
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49393/seg-25729023-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/27042024/banners/46757-662d07c589149.png",Shou Toma i Jerry
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46757/seg-25728740-v1-a1/index.m3u8
+
+
+#EXTINF:-1,Music World
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42474/seg-25728586-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16032024/banners/46093-65f5f94cb05ec.jpg",Rodina (music)
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46093/seg-25728786-v1-a1/index.m3u8
+#EXTINF:-1,Pitichko Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43487/seg-25728772-v1-a1/index.m3u8
+#EXTINF:-1,MTV Rusiya
+#EXTGRP:RUS
+https://v2.catcast.tv/content/45105/seg-25649019-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18042024/banners/46693-66203f00cb3a1.png",Film Music tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46693/seg-25555725-v1-a1/index.m3u8
+#EXTINF:-1,Muzika 1 international
+#EXTGRP:RUS
+https://kino-1.catcast.tv/content/37745/seg-25410655-v1-a1/index.m3u8
+#EXTINF:-1, Muzika 2 international
+#EXTGRP:RUS
+https://kino-1.catcast.tv/content/37742/seg-25410647-v1-a1/index.m3u8
+#EXTINF:-1,Muzika 1 Kino international
+#EXTGRP:RUS
+https://kino-1.catcast.tv/content/37739/seg-25410668-v1-a1/index.m3u8
+#EXTINF:-1,ARTVOLNA tv music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38102/seg-25765241-v1-a1/index.m3u8
+#EXTINF:-1,Muzikalnaya Volna
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46419/seg-25765457-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/20112025/banners/49945-691f1df5747e3.png",BRIDGE Tropical
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49945/seg-25765091-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25122023/banners/45053-658963ed3ec63.png",Bonus2pay
+#EXTGRP:RUS
+https://v2.catcast.tv/content/45053/seg-25765071-v1-a1/index.m3u8
+#EXTINF:-1,Concept Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39410/seg-25764981-v1-a1/index.m3u8
+#EXTINF:-1,Cursi-KRS
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41434/seg-25764964-v1-a1/index.m3u8
+#EXTINF:-1,TV Shans_Krasiviye tanchi
+#EXTGRP:RUS
+https://tvshans.catcast.tv/content/40078/seg-25764891-v1-a1.ts
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/15032021/logos/9761-604fc2cd3cc6f.png",STR Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/35114/seg-25764840-v1-a1/index.m3u8
+#EXTINF:-1,hit_music_1
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40069/seg-25764794-v1-a1/index.m3u8
+#EXTINF:-1,VIVA tv 
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49015/seg-25411162-v1-a1/index.m3u8
+#EXTINF:-1,DICKO 90x
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40993/seg-25411521-v1-a1/index.m3u8
+#EXTINF:-1,VIVA Hungary
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50193/seg-25411315-v1-a1/index.m3u
+#EXTINF:-1,MTV music ru
+#EXTGRP:RUS
+https://v2.catcast.tv/content/45105/seg-25410908-v1-a1/index.m3u8
+#EXTINF:-1,Oldes Dance Party
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41188/seg-25411426-v1-a1/index.m3u8
+#EXTINF:-1,SUPER tv music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49071/seg-25411186-v1-a1/index.m3u8
+#EXTINF:-1,Eurodance tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39903/seg-25411626-v1-a1/index.m3u8
+#EXTINF:-1,Blatnyachok music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39018/seg-25411683-v1-a1/index.m3u8
+#EXTINF:-1,Rossia WOOMEN Hits
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42688/seg-25411720-v1-a1/index.m3u8
+#EXTINF:-1,Fresh hits
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43416/seg-25410962-v1-a1/index.m3u8
+#EXTINF:-1,Muzikalniy Mir
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41069/seg-25411255-v1-a1/index.m3u8
+#EXTINF:-1,Bridge Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49676/seg-25411453-v1-a1/index.m3u8
+#EXTINF:-1,HIT Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37160/seg-25410993-v1-a1/index.m3u8
+#EXTINF:-1,Vyetnam music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41595/seg-25411555-v1-a1/index.m3u8
+#EXTINF:-1,STS Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42583/seg-25411541-v1-a1/index.m3u8
+#EXTINF:-1,Pitichko music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43487/seg-25411025-v1-a1/index.m3u8
+#EXTINF:-1,STR Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/35114/seg-25411047-v1-a1/index.m3u8
+#EXTINF:-1,SONG Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43704/seg-25564989-v1-a1/index.m3u8
+#EXTINF:-1,HÇRT Musıc
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50466/seg-25564793-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/20012023/banners/40993-63ca139e4d849.png",ЯН.ФМ Диско 90х Сочи
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40993/seg-25556012-v1-a1/index.m3u8
+#EXTINF:-1, Qorizont musik
+#EXTGRP:RUS
+https://v2.catcast.tv/content/66/seg-25555990-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01082024/banners/43707-66abbb7d0ce52.png",SEPEN Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43707/seg-25564900-v1-a1/index.m3u8
+#EXTINF:-1,HIT Music tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37160/seg-25550480-v1-a1/index.m3u8
+#EXTINF:-1,Bridge Dream
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49945/seg-25549760-v1-a1/index.m3u8
+#EXTINF:-1,Sepeen vechniy Xit
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46395/seg-25550105-v1-a1/index.m3u8
+#EXTINF:-1,TV NEYT music
+#EXTGRP:RUS
+https://tvshans.catcast.tv/content/41648/seg-25555844-v1-a1/index.m3u8
+#EXTINF:-1,Music Hous
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50149/seg-25555740-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/20082025/banners/49252-68a5e1f182f8f.png",Music Mat
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49252/seg-25555552-v1-a1/index.m3u8
+#EXTINF:-1,Musc Dim
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49254/seg-25555510-v1-a1/index.m3u8
+#EXTINF:-1,MIX tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38803/seg-25555477-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/07092025/banners/45441-68bd18b8dd828.jpg",MusicMax
+#EXTGRP:RUS
+https://v2.catcast.tv/content/45441/seg-25555448-v1-a1/index.m3u8
+#EXTINF:-1,BRIDGE TV
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42116/seg-25555388-v1-a1/index.m3u8
+#EXTINF:-1,ArtVolna tv music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38102/seg-25555299-v1-a1/index.m3u8
+#EXTINF:-1,Muz BOOM
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42167/seg-25550646-v1-a1/index.m3u8
+#EXTINF:-1, Sport 1
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37452/seg-25549925-v1-a1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="cineman-action" tvg-logo="http://epg.one/img/4684.png" tvg-name="",CINEMAN ACTION
 #EXTGRP:Kino Action
