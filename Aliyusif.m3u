@@ -124,7 +124,7 @@ https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",SIRIUS TV AZ film
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yYVPz0L/In-Shot-20260403-220516775.png",SIRIUS TV AZ film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50904/seg-26002688-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-gaydasiz doyusler
@@ -1670,9 +1670,6 @@ https://v2.catcast.tv/content/37452/seg-25549925-v1-a1/index.m3u8
 #EXTINF:-1,Матчь тв
 #EXTGRP:Cinerama UZ
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1,ТНТ
-#EXTGRP:Cinerama UZ
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/127.png" group-title="Cinerama UZ",Viju TV1000 HD
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
