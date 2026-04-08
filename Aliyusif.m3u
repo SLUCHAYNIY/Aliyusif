@@ -192,6 +192,21 @@ https://catcast.ismailturret.workers.dev/50710.m3u8
 #EXTINF:-1,Yansima Slow Music
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/50498.m3u8
+#EXTINF:-1,yansimasinematv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50817/seg-25893931-v1-a1/index.m3u8
+#EXTINF:-1,Yansima90Danstv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50616/seg-26091737-v1-a1/index.m3u8
+#EXTINF:-1,Yansimaslowsarkilar
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
+#EXTINF:-1,Underworld
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50751/seg-25886751-v1-a1/index.m3u8
+#EXTINF:-1,Bladebox
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50694/seg-25886798-v1-a1/index.m3u8
 #EXTINF:-1,FimBOX Çocuk
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/50879.m3u8
@@ -265,6 +280,57 @@ https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar10.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/941244312/TEBER_NOSTALJI.gif",TEBER NOSTALJİ TV
 #EXTGRP:Azerbaycan
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar11.m3u8
+#EXTINF:-1,Fanatik Max Dag
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50761/seg-25886725-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Max Yesilcam
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50735/seg-25826729-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Max Korku
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50717/seg-25826740-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Prime Avrupa Yakası
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50846/seg-25938086-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Prime Eşref Tek
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50827/seg-25926266-v1-a1/index.m3u8
+#EXTINF:-1,fanatik prime kurtlar vadisi
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50688/seg-25826752-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Prime Bizimkiler
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50840/seg-25926242-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Max Deadpool
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50742/seg-25842863-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Music Rojda
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50810/seg-25886676-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Music Nastolji
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50737/seg-25826706-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Kids Tom&Jerry
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50837/seg-25926257-v1-a1/index.m3u8
+#EXTINF:-1,fanatik prime Ed Stafford ile Kurtuluş Öyküleri
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50693/seg-25826748-v1-a1/index.m3u8
+#EXTINF:-1,fanatik prime kurtlar vadisi
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50688/seg-25826752-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Kids Pepee
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50806/seg-25886684-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Music Neşet Ertaş
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50805/seg-25886693-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Kids Şarkılar
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50758/seg-25886741-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Kids Caillou
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50825/seg-25902084-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQH7RJf.png", NEOplay AZ
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3674/stream/play.m3u8
