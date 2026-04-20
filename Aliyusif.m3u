@@ -261,6 +261,14 @@ https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar10.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/941244312/TEBER_NOSTALJI.gif",TEBER NOSTALJİ TV
 #EXTGRP:Azerbaycan
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar11.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 1 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96568.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 2 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96569.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 3 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96570.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 4 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96571.ts
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Max Dag
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50761/seg-25886725-v1-a1/index.m3u8
@@ -397,6 +405,8 @@ https://v2.catcast.tv/content/50312/seg-25410417-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DySv6ZKX/In-Shot-20251019-100938269.png",Mega TV Music
 #EXTGRP:Azerbaycan
 http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/gkykB4xc/In-Shot-20260209-101752277.png" group-title="Azerbaycan",MİX MUSİC ᵏᵃᵑᵏᵃ
+https://catcast.ismailturret.workers.dev/karisikyayin.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png",ALVIN Music
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/39199/seg-25409987-v1-a1/index.m3u8
@@ -424,6 +434,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26022026/logos/27146-69a07881100d5.png",BalacanTV
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/T2Stvqb2/In-Shot-20260301-114437616.png" group-title="Azerbaycan",FİDAN(uşaq) ᵏᵃᵑᵏᵃ
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Masa ve Ayi
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50171/seg-25409844-v1-a1/index.m3u8
@@ -472,9 +484,12 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",Idman tv(yoda.az)
 #EXTGRP:Azerbaycan
 https://str2.yodacdn.net/idmantele/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",Azerbaijan Gharbi
-#EXTGRP:Azerbaycan
-https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png" group-title="Azerbaycan",VİLAYƏT TV ᵏᵃᵑᵏᵃ
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/DZGJCby1/logo-hadi-tv.png" group-title="Azerbaycan",HADİ TV ᵏᵃᵑᵏᵃ
+https://bucharest.zeuscdn724.com/lb0/H3/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/fWBRS6dR/In-Shot-20260128-115309657.png" group-title="Azerbaycan",Qərbi Azərbaycan ᵏᵃᵑᵏᵃ
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",Son Umid TV
 #EXTGRP:Azerbaycan
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u8
@@ -483,8 +498,16 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png", ZAHRA TV
 #EXTGRP:Azerbaycan
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/5tX6Q9xH/In-Shot-20260419-154518149.png" group-title="Azerbaycan",HZ. YUSIF TV ᵏᵃᵑᵏᵃ
+http://umperisn.mywire.org/index.php?id=563759&token=DeaTHLesS
+#EXTINF:0 tvg-logo="https://i.postimg.cc/76WLhGsq/In-Shot-20260211-195821072.png" group-title="Azerbaycan",Sabalan TV ᵏᵃᵑᵏᵃ
+https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Fs7h1H3N/In-Shot-20260211-201440527.png" group-title="Azerbaycan",Eşraq TV ᵏᵃᵑᵏᵃ
+https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/vH9SPRdK/In-Shot-20260211-200753518.png" group-title="Azerbaycan",Sahand TV ᵏᵃᵑᵏᵃ
+https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
 
-#EXTM3U
+
 #EXTINF:0 tvg-id="50341" tvg-name="PlayerCınema Action" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
