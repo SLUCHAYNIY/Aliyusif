@@ -8,13 +8,13 @@ http://str.yodacdn.net/azertv/index.m3u8
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9134.png", ATV
 #EXTGRP:Azerbaycan
-http://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/atv/index.m3u8
 #EXTINF:-1  tvg-id="xezer"  tvg-logo="https://iptvx.one/picons/xezer.png",Xezer tv
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+http://flussonic.izone.az:80/xezertv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2553.png", Space TV
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+https://str.yodacdn.net/space/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2635.png", ARB TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2551.png", ARB 24
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png", Real TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
@@ -57,18 +57,12 @@ http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
-#EXTGRP:Azerbaycan
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV
 #EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
+https://a8.radyotelekom.com.tr:3973/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:Azerbaycan
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632449
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/SirvanTv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
 #EXTGRP:Azerbaycan
 https://tv.mobyservice.ru/livetv/index.m3u8
@@ -81,18 +75,15 @@ https://stream.ftv.az/live/ftv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9131.png", Show plus tv
 #EXTGRP:Azerbaycan
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wFpA0zL.png", Rihat TV
-#EXTGRP:Azerbaycan
-https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:Azerbaycan
 http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563779
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QW0xBp1.png", kanal 65 cinema
 #EXTGRP:Azerbaycan
-https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563740
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZND3n8r.png", kanal 65 komedi
 #EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/kanal65komedi/playlist.m3u8
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563769
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
@@ -177,6 +168,9 @@ https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50817/seg-25893931-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/946924681/YANSIMA_TV2.gif", YANSIMA SİNEMA 2 HDᵀᴿ
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
 #EXTINF:-1,Yansima90Danstv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50616/seg-26091737-v1-a1/index.m3u8
@@ -220,48 +214,48 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://104.238.23.221/BoncukTV/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620828/TEBER_STAR1.gif",TEBER STAR1
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946912491/HILAL_1.gif" TV1,HİLAL1
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar1.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620882/TEBER_STAR2.gif",TEBER STAR2
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822855/TEBER_STAR.gif" TV1,TEBER STAR
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar2.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/938228997/YESILCAM_STAR.gif",GALA STAR
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946451985/CEVIK_TV.gif" TV3,ÇEVİK TV
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar3.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/935828290/TEBER_FLASH.gif",TEBER FLASH TV eğlence
+#EXTINF:-1 tvg-id="3" tvg-logo="" TV13,TEBER CENNET MTV
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar4.m3u8
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif",HBB TV
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945142912/AKTIF_TV.gif" TV2,TEBER AKTİF TV
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar5.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619440/STAR6.gif",DENİZ 6
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif" TV5,HBB TV 
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar6.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617844/PLANET_AXION.gif",EHLİBEYT STAR
+#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.zerocdn.com/945826337/YER_6.gif" TV6,YER 6 
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar7.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619430/STAR_SAFARI.gif",TEBER STAR SAFARİ
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822806/TEBER_MEGA.gif" TV7,TEBER MEGA TV
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar8.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/937077356/Kanal9.gif",KANAL9 çocuk
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif" TV8,TEBER_ON
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar9.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif",TEBER_ON
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617766/KRAL_TEBER.png" TV9,TEBER KRAL TV 
+https://catcast.ismailturret.workers.dev/50457.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945828294/TEBER_FLASH.gif" TV10,TEBER FLASH TV 
 #EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar10.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/941244312/TEBER_NOSTALJI.gif",TEBER NOSTALJİ TV
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar11.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teber10/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 1 ᵏᵃᵑᵏᵃ
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96568.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 2 ᵏᵃᵑᵏᵃ
