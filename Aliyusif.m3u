@@ -89,7 +89,9 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VbQqzzE.png",TeleOn tv
+#EXTGRP:Azerbaycan
+http://teleontv-kick.streams-supersatforum.workers.dev/TELEONTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
@@ -103,9 +105,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
 #EXTINF:-1,TE tv
 #EXTGRP:Azerbaycan
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VbQqzzE.png",TeleOn tv
-#EXTGRP:Azerbaycan
-http://teleontv-kick.streams-supersatforum.workers.dev/TELEONTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://104.238.23.182/d/live/out.m3u8
@@ -176,6 +175,7 @@ http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrC
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96571.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png", GemAZ HD
+#EXTGRP:Azerbaycan
 http://live.smartglwiz.workers.dev/?ID=GemAZ_HD
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png"  group-title="Azerbaycan", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
