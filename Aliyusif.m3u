@@ -89,9 +89,6 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VbQqzzE.png",TeleOn tv
-#EXTGRP:Azerbaycan
-http://teleontv-kick.streams-supersatforum.workers.dev/TELEONTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
@@ -173,7 +170,9 @@ http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrC
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96570.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 4 ᵏᵃᵑᵏᵃ
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96571.ts
-
+#EXTINF:-1 tvg-name="Mr. Bean" tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/cEL2zvrJCGF7GwyE3ESCInQyRk8.jpg", Mr. Bean
+#EXTGRP:Azerbaycan
+https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
 #EXTGRP:Azerbaycan
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
@@ -407,9 +406,18 @@ http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaycan
 #EXTGRP:Azerbaycan
 http://str.yodacdn.net/mtvaz/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/416/406/png-transparent-remix-music-disc-jockey-song-typo-miscellaneous-music-video-flower-thumbnail.png",Hind 7X Music
+#EXTGRP:Azerbaycan
+https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/416/406/png-transparent-remix-music-disc-jockey-song-typo-miscellaneous-music-video-flower-thumbnail.png",Hind Music
 #EXTGRP:Azerbaycan
-https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://i.ibb.co/THRsQ6M/resize-13.png",Balle Balle hind music
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://i.postimg.cc/dQGjf1Sp/image-2025-09-08-T101022-455.png",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://i.postimg.cc/dQGjf1Sp/image-2025-09-08-T101022-455.png",Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
+https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
 #EXTGRP:Azerbaycan
 https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
@@ -959,183 +967,93 @@ https://catcast-tv2.koprulu2.workers.dev/?id=playermusic.m3u8
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://catcast-tv2.koprulu2.workers.dev/?id=playerhind-music.m3u8
 
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Звезда.png",Звезда
+http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Карусель.png",Карусель
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Мир.png",Мир
+http://31.131.141.195:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Муз ТВ.png",МузТВ
+http://31.131.141.195:8000/play/2100/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/НТВ.png",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Сириус",Оплот ТВ
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/ОТР.png",ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Первый канал.png",Первый канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/РЕН ТВ.png",Рен ТВ
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Россия 1.png",Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Россия 24.png",РОССИЯ 24
+http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Россия К.png",Россия К
+http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Спас.png",Спас
+http://31.131.141.195:8000/play/2020/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
+http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/ТНТ.png",ТНТ
+http://31.131.141.195:8000/play/2090/index.m3u8
 
-#EXTINF:-1 group-title="Voka",Киносат
-http://46.53.208.4:80/live/59.m3u8
-#EXTINF:-1 group-title="Voka",Epic
-http://46.53.208.4:80/live/171.m3u8
-#EXTINF:-1 group-title="Voka",.Sci-Fi
-http://46.53.208.4:80/live/207.m3u8
-#EXTINF:-1 group-title="Voka",.BLACK
-http://46.53.208.4:80/live/3001.m3u8
-#EXTINF:-1 group-title="Voka",.Red
-http://46.53.208.4:80/live/1400.m3u8
-#EXTINF:-1 group-title="Voka",Наше ТВ
-http://46.53.208.4:80/live/218.m3u8
-#EXTINF:-1 group-title="Voka",Кинопоказ HD
-http://46.53.208.4:80/live/285.m3u8
-#EXTINF:-1 group-title="Voka",Феникс+кино
-http://46.53.208.4:80/live/332.m3u8
-#EXTINF:-1 group-title="Voka",Ретро
-http://46.53.208.4:80/live/335.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000
-http://46.53.208.4:80/live/5107.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 action
-http://46.53.208.4:80/live/5106.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 Новелла HD
-http://46.53.208.4:80/live/545.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 romantica
-http://46.53.208.4:80/live/3111.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 КИНО
-http://46.53.208.4:80/live/5109.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ COMEDY
-http://46.53.208.4:80/live/6003.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ MEGAHIT
-http://46.53.208.4:80/live/6002.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ PREMIERE
-http://46.53.208.4:80/live/6001.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ SERIAL
-http://46.53.208.4:80/live/6004.m3u8
-#EXTINF:-1 group-title="Voka",Ultra HD Cinema
-http://46.53.208.4:80/live/1042.m3u8
-#EXTINF:-1 group-title="Voka",VHS-ка
-http://46.53.208.4:80/live/1123.m3u8
-#EXTINF:-1 group-title="Voka",TV XXI
-http://46.53.208.4:80/live/2018.m3u8
-#EXTINF:-1 group-title="Voka",Cinema
-http://46.53.208.4:80/live/2092.m3u8
-#EXTINF:-1 group-title="Voka",Иллюзион+
-http://46.53.208.4:80/live/603.m3u8
-#EXTINF:-1 group-title="Voka",Иллюзион
-http://46.53.208.4:80/live/616.m3u8
-#EXTINF:-1 group-title="Voka",Иллюзион HD
-http://46.53.208.4:80/live/869.m3u8
-#EXTINF:-1 group-title="Voka",Еврокино
-http://46.53.208.4:80/live/903.m3u8
-#EXTINF:-1 group-title="Voka",ТВ СИНЕМА HD
-http://46.53.208.4:80/live/3870.m3u8
-#EXTINF:-1 group-title="Voka",МУВИ ТВ
-http://46.53.208.4:80/live/5007.m3u8
-#EXTINF:-1 group-title="Voka",Домашний
-http://46.53.208.4:80/live/961.m3u8
-#EXTINF:-1 group-title="Voka",Дом кино
-http://46.53.208.4:80/live/5105.m3u8
-#EXTINF:-1 group-title="Voka",ДОМ КИНО ПРЕМИУМ
-http://46.53.208.4:80/live/5111.m3u8
-#EXTINF:-1 group-title="Voka",START WORLD HD
-http://46.53.208.4:80/live/9011.m3u8
-#EXTINF:-1 group-title="Voka",Перец
-http://46.53.208.4:80/live/971.m3u8
-#EXTINF:-1 group-title="Voka",Золотая коллекция
-http://46.53.208.4:80/live/1124.m3u8
-#EXTINF:-1 group-title="Voka",Советское кино
-http://46.53.208.4:80/live/3018.m3u8
-#EXTINF:-1 group-title="Voka",КЛАСИКА КИНО
-http://46.53.208.4:80/live/3006.m3u8
-#EXTINF:-1 group-title="Voka",Novella TV
-http://46.53.208.4:80/live/1205.m3u8
-#EXTINF:-1 group-title="Voka",Start Air
-http://46.53.208.4:80/live/1804.m3u8
-#EXTINF:-1 group-title="Voka",Кинеко
-http://46.53.208.4:80/live/1812.m3u8
-#EXTINF:-1 group-title="Voka",НСТ
-http://46.53.208.4:80/live/6008.m3u8
-#EXTINF:-1 group-title="Voka",TV3
-http://46.53.208.4:80/live/5127.m3u8
-#EXTINF:-1 group-title="Voka",ВОПРОСЫ ОТВЕТЫ
-http://46.53.208.4:80/live/1515.m3u8
-#EXTINF:-1 group-title="Voka",RTG TV
-http://46.53.208.4:80/live/131.m3u8
-#EXTINF:-1 group-title="Voka",Нано ТВ
-http://46.53.208.4:80/live/211.m3u8
-#EXTINF:-1 group-title="Voka",Рыбалка и охота
-http://46.53.208.4:80/live/244.m3u8
-#EXTINF:-1 group-title="Voka",Viasat Explore
-http://46.53.208.4:80/live/540.m3u8
-#EXTINF:-1 group-title="Voka",Viasat History
-http://46.53.208.4:80/live/541.m3u8
-#EXTINF:-1 group-title="Voka",Viasat Nature
-http://46.53.208.4:80/live/542.m3u8
-#EXTINF:-1 group-title="Voka",Travel+Adventure HD
-http://46.53.208.4:80/live/964.m3u8
-#EXTINF:-1 group-title="Voka",UNKNOWN PLANET
-http://46.53.208.4:80/live/3006.m3u8
-#EXTINF:-1 group-title="Voka",Точка отрыва
-http://46.53.208.4:80/live/602.m3u8
-#EXTINF:-1 group-title="Voka",RTG HD
-http://46.53.208.4:80/live/1406.m3u8
-#EXTINF:-1 group-title="Voka",Авто 24
-http://46.53.208.4:80/live/588.m3u8
-#EXTINF:-1 group-title="Voka",Домашние животные
-http://46.53.208.4:80/live/2112.m3u8
-#EXTINF:-1 group-title="Voka",БОБЕР
-http://46.53.208.4:80/live/3012.m3u8
-#EXTINF:-1 group-title="Voka",Дикая Рыбалка HD
-http://46.53.208.4:80/live/2324.m3u8
-#EXTINF:-1 group-title="Voka",Дикая охота HD
-http://46.53.208.4:80/live/2325.m3u8
-#EXTINF:-1 group-title="Voka",НАША ТЕМА HD
-http://46.53.208.4:80/live/2103.m3u8
-#EXTINF:-1 group-title="Voka",ЗДОРОВОЕ ТВ
-http://46.53.208.4:80/live/342.m3u8
-#EXTINF:-1 group-title="Voka",Драйв
-http://46.53.208.4:80/live/336.m3u8
-#EXTINF:-1 group-title="Voka",Усадьба
-http://46.53.208.4:80/live/341.m3u8
-#EXTINF:-1 group-title="Voka",Terra HD
-http://46.53.208.4:80/live/1500.m3u8
-#EXTINF:-1 group-title="Voka",Curiosity Stream
-http://46.53.208.4:80/live/994.m3u8
-#EXTINF:-1 group-title="Voka",Зоопарк
-http://46.53.208.4:80/live/996.m3u8
-#EXTINF:-1 group-title="Voka",Наука 2.0
-http://46.53.208.4:80/live/167.m3u8
-#EXTINF:-1 group-title="Voka",LUXURY HD
-http://46.53.208.4:80/live/212.m3u8
-#EXTINF:-1 group-title="Voka",СВЕТЛОЕ ТВ HD
-http://46.53.208.4:80/live/973.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ PLANET
-http://46.53.208.4:80/live/6001.m3u8
-#EXTINF:-1 group-title="Voka",FUN BOX UHD
-http://46.53.208.4:80/live/3437.m3u8
-#EXTINF:-1 group-title="Voka",Лёва
-http://46.53.208.4:80/live/2424.m3u8
-#EXTINF:-1 group-title="Voka",СТС kids
-http://46.53.208.4:80/live/1448.m3u8
-#EXTINF:-1 group-title="Voka",Киномульт
-http://46.53.208.4:80/live/157.m3u8
-#EXTINF:-1 group-title="Voka",МУЛЬТИ ЛАНДИЯ
-http://46.53.208.4:80/live/5108.m3u8
-#EXTINF:-1 group-title="Voka",УНИКУМ
-http://46.53.208.4:80/live/5512.m3u8
-#EXTINF:-1 group-title="Voka",МУЛЬТ HD
-http://46.53.208.4:80/live/6007.m3u8
-#EXTINF:-1 group-title="Voka",КАРУСЕЛЬ
-http://46.53.208.4:80/live/5123.m3u8
-#EXTINF:-1 group-title="Voka",МУЛЬТФИЛЬМЫ
-http://46.53.208.4:80/live/3007.m3u8
-#EXTINF:-1 group-title="Voka",О!
-http://46.53.208.4:80/live/3013.m3u8
-#EXTINF:-1 group-title="Voka",БОБЕР
-http://46.53.208.4:80/live/3012.m3u8
-#EXTINF:-1 group-title="Voka",Cartoon Classics
-http://46.53.208.4:80/live/1303.m3u8
-#EXTINF:-1 group-title="Voka",Duck TV
-http://46.53.208.4:80/live/1492.m3u8
-#EXTINF:-1 group-title="Voka",EUROPA PLUS TV
-http://46.53.208.4:80/live/963.m3u8
-#EXTINF:-1 group-title="Voka",Bridge HD
-http://46.53.208.4:80/live/110.m3u8
-#EXTINF:-1 group-title="Voka",MMA-TV.COM
-http://46.53.208.4:80/live/2100.m3u8
-#EXTINF:-1 group-title="Voka",Беларусь 5
-http://46.53.208.4:80/live/9.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ SPORT
-http://46.53.208.4:80/live/6005.m3u8
-#EXTINF:-1 group-title="Voka",СПОРТ ТВ HD
-http://46.53.208.4:80/live/8112.m3u8
-
-
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Cinema.png",Cinema
+http://185.46.16.239:8000/Cinema
+#EXTINF:-1 group-title="Сириус",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=zetoM4VMRvX69PjkO8vIiQ&e=2075544957&scheme=https
+#EXTINF:-1 group-title="Сириус",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=ulgUTvNyvfLq7v1KiT-pkQ&e=2075544965&scheme=https
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Матч! Арена.png",Арена
+http://185.46.16.239:8000/Match_Arena
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Домашний.png",Домашний
+http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Еврокино.png",Еврокино
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Звезда.png",Звезда
+http://185.46.16.239:8000/Zvezda
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/История.png",История
+http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Кинокомедия.png",Кинокомедия
+http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Киномикс.png",Киномикс
+http://185.46.16.239:8000/Fox_Life_HD
+#EXTINF:-1 group-title=Сириус"" tvg-logo="../Channel/Logo/Матч ТВ HD.png",Матч ТВ
+http://185.46.16.239:8000/Match_TV
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Мир.png",МИР
+http://185.46.16.239:8000/Mir
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Муз ТВ.png",МузТВ
+http://185.46.16.239:8000/Muz_TV
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Наше новое кино.png",НАШЕ НОВОЕ КИНО
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/НТВ.png",НТВ
+http://185.46.16.239:8000/NTV
+#EXTINF:-1 group-title="Инет" tvg-logo="../Channel/Logo/ОТР.png",ОТР
+http://185.46.16.239:8000/OTR
+#EXTINF:-1 group-title="Инет" tvg-logo="../Channel/Logo/Романтичное.png",Роман
+http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 group-title="Инет" tvg-logo="../Channel/Logo/Россия 1.png",Россия 1
+http://185.46.16.239:8000/Rossiya_1
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
+http://185.46.16.239:8000/Rossiya_24
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Россия К.png",Россия К
+http://185.46.16.239:8000/Rossiya_K
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Союз.png",Союз
+http://185.46.16.239:8000/Soyuz
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Спас.png",Спас
+http://185.46.16.239:8000/Spas
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Матч! Страна.png",Страна
+http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 group-title="Сириус",ТВ3
+http://185.46.16.239:8000/TV3
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/ТНТ.png",ТНТ
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/ТНТ Music.png",ТНТ Music
+http://185.46.16.239:8000/Nashe_TV
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Шансон ТВ.png",Шансон ТВ
+http://185.46.16.239:8000/Shanson
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Ю.png",Ю
+http://185.46.16.239:8000/YU_TV
 
 #EXTINF:-1,Матчь тв
 #EXTGRP:Cinerama UZ
