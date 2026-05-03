@@ -1040,11 +1040,11 @@ http://185.46.16.239:8000/Muz_TV
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/НТВ.png",НТВ
 http://185.46.16.239:8000/NTV
-#EXTINF:-1 group-title="Инет" tvg-logo="../Channel/Logo/ОТР.png",ОТР
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/ОТР.png",ОТР
 http://185.46.16.239:8000/OTR
-#EXTINF:-1 group-title="Инет" tvg-logo="../Channel/Logo/Романтичное.png",Роман
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Романтичное.png",Роман
 http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 group-title="Инет" tvg-logo="../Channel/Logo/Россия 1.png",Россия 1
+#EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Россия 1.png",Россия 1
 http://185.46.16.239:8000/Rossiya_1
 #EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
 http://185.46.16.239:8000/Rossiya_24
