@@ -1603,7 +1603,18 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/BoxOs
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Z_Action.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KEMAL SUNAL 1 ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/KEMAL.SUNAL.1.png" group-title="ŞABAN",[TR] KEMAL SUNAL 1 ғʜᴅ
+http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/6325
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KEMAL SUNAL 2 ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/KEMAL.SUNAL.2.png" group-title="ŞABAN",[TR] KEMAL SUNAL 2 ғʜᴅ
+http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/101136
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KEMAL SUNAL 3 ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/KEMAL.SUNAL.3.png" group-title="ŞABAN",[TR] KEMAL SUNAL 3 ғʜᴅ
+http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/223818
+#EXTINF:-1 tvg-id="" tvg-name="[TR] HABABAM SINIFI ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/HABABAM.SINIFI.png" group-title="ŞABAN",[TR] HABABAM SINIFI ғʜᴅ
+http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/6318
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SENER SEN ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/SENER.SEN.png" group-title="ŞABAN",[TR] SENER SEN ғʜᴅ
+http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/23578
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ZEKI & METIN ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/ZEKI.METIN.png" group-title="ŞABAN",[TR] ZEKI & METIN ғʜᴅ
+http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/6320
 #EXTINF:-1 group-title="ŞABAN"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM FILM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ŞABAN"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,RIZE Türk
