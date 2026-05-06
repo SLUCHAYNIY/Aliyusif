@@ -125,44 +125,7 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://104.238.23.221/BoncukTV/live/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946912491/HILAL_1.gif" TV1,HİLAL1
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822855/TEBER_STAR.gif" TV1,TEBER STAR
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946451985/CEVIK_TV.gif" TV3,ÇEVİK TV
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945142912/AKTIF_TV.gif" TV2,TEBER AKTİF TV
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif" TV5,HBB TV 
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.zerocdn.com/945826337/YER_6.gif" TV6,YER 6 
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822806/TEBER_MEGA.gif" TV7,TEBER MEGA TV
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif" TV8,TEBER_ON
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617766/KRAL_TEBER.png" TV9,TEBER KRAL TV 
-https://catcast.ismailturret.workers.dev/50457.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945828294/TEBER_FLASH.gif" TV10,TEBER FLASH TV 
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber10/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 1 ᵏᵃᵑᵏᵃ
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96568.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 2 ᵏᵃᵑᵏᵃ
