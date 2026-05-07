@@ -86,6 +86,9 @@ http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/2120/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
+#EXTGRP:Azerbaycan
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SBhSXwk/Cine5tv.jpg",CINE5 TV
 #EXTGRP:Azerbaycan
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
@@ -98,9 +101,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpSSF4g.png", YANSIMA music
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
-#EXTGRP:Azerbaycan
-https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:-1,TE tv
 #EXTGRP:Azerbaycan
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
